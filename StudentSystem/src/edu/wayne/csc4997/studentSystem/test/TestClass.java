@@ -1,4 +1,4 @@
-package edu.wayne.csc4997.studentSystem.model;
+package edu.wayne.csc4997.studentSystem.test;
 
 public class TestClass {
 	
