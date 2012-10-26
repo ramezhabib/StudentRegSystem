@@ -7,9 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Course Page</title>
 
-
-
-
 <LINK href="<%=request.getContextPath()%>/css/mystyle.css" rel="stylesheet" type="text/css">
 </head>
 <body>
