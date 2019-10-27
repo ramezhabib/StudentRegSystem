@@ -17,6 +17,7 @@
 			<h:outputLink value="instructors.jsp">  Instructors </h:outputLink>
 			<h:outputLink value="register.jsp">  Register/Drop </h:outputLink>
 			<h:outputLink value="reports.jsp">  Reports </h:outputLink>
+			<h:outputLink value="register.jsp"> TESTPAGES</h:outputLink>
 		</h:panelGrid>
 		<h:messages layout="table"></h:messages>
 	</h:form>

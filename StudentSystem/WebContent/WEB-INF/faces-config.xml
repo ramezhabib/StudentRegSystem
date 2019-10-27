@@ -20,10 +20,5 @@
 		<managed-bean-class>edu.wayne.csc4997.studentSystem.model.InstructorManager</managed-bean-class>
 		<managed-bean-scope>session</managed-bean-scope>
 	</managed-bean>
-	<managed-bean>
-		<managed-bean-name>testClass</managed-bean-name>
-		<managed-bean-class>edu.wayne.csc4997.studentSystem.model.TestClass</managed-bean-class>
-		<managed-bean-scope>session</managed-bean-scope>
-	</managed-bean>
 
 </faces-config>
